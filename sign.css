@@ -267,6 +267,15 @@ nav .right-nav ul a:hover {
 }
 
 @media only screen and (max-width: 500px) {
+    .sign-in-page {
+    margin-top: 80px;
+    width: 100%;
+    height: 500px;
+    background-color: transparent;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
     .signin-main h3 {
         font-size: 30px;
         margin-bottom: 20px;
